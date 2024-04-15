@@ -1,0 +1,122 @@
+[
+    {
+        "data": [
+            { "id": 1, "name": "Bed" },
+            { "id": 2, "name": "Cabinet 1" },
+            { "id": 3, "name": "Cabinet 2" },
+            { "id": 4, "name": "Chair" },
+            { "id": 5, "name": "Couch 1" },
+            { "id": 6, "name": "Couch 2" },
+            { "id": 7, "name": "Shelf" },
+            { "id": 8, "name": "Storage box 1" },
+            { "id": 9, "name": "Storage box 2" },
+            { "id": 10, "name": "Table 1" },
+            { "id": 11, "name": "Table 2" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 1001, "name": "Carpet 1" },
+            { "id": 1002, "name": "Carpet 2" },
+            { "id": 1003, "name": "Carpet 3" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 2001, "name": "Bath 1" },
+            { "id": 2002, "name": "Carbinet 1" },
+            { "id": 2003, "name": "Carbinet 2" },
+            { "id": 2004, "name": "Stove" },
+            { "id": 2005, "name": "Faucet 1" },
+            { "id": 2006, "name": "Faucet 2" },
+            { "id": 2007, "name": "Toilet 1" },
+            { "id": 2008, "name": "Toilet 2" },
+            { "id": 2009, "name": "Washstand 1" },
+            { "id": 2010, "name": "Washstand 2" },
+            { "id": 2011, "name": "Washstand 3" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 3001, "name": "Door" },
+            { "id": 3002, "name": "Tile 1" },
+            { "id": 3003, "name": "Tile 2" },
+            { "id": 3004, "name": "Tile 3" },
+            { "id": 3005, "name": "Tile 4" },
+            { "id": 3006, "name": "Tile 5" },
+            { "id": 3007, "name": "Tile 6" },
+            { "id": 3008, "name": "Tile 7" },
+            { "id": 3009, "name": "Tile 8" },
+            { "id": 3010, "name": "Tile 9" },
+            { "id": 3011, "name": "Window 1" },
+            { "id": 3012, "name": "Window 2" },
+            { "id": 3013, "name": "Window 3" },
+            { "id": 3014, "name": "Window 4" },
+            { "id": 3015, "name": "Window 5" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 4001, "name": "Lamp 1" },
+            { "id": 4002, "name": "Lamp 2" },
+            { "id": 4003, "name": "Lamp 3" },
+            { "id": 4004, "name": "Lamp 4" },
+            { "id": 4005, "name": "Lamp 5" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 5001, "name": "Fridge 1" },
+            { "id": 5002, "name": "Fridge 2" },
+            { "id": 5003, "name": "Stove" },
+            { "id": 5004, "name": "Cabinet 1" },
+            { "id": 5005, "name": "Cabinet 2" },
+            { "id": 5006, "name": "Cabinet 3" },
+            { "id": 5007, "name": "Cabinet 4" },
+            { "id": 5008, "name": "Cabinet 5" },
+            { "id": 5009, "name": "Cabinet 6" },
+            { "id": 5010, "name": "Cabinet 7" },
+            { "id": 5011, "name": "Cabinet 8" },
+            { "id": 5012, "name": "Cabinet 9" },
+            { "id": 5013, "name": "Hood" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 6001, "name": "Bean bag" },
+            { "id": 6002, "name": "Curtain 1" },
+            { "id": 6003, "name": "Curtain 2" },
+            { "id": 6004, "name": "Pillow 1" },
+            { "id": 6005, "name": "Pillow 2" },
+            { "id": 6006, "name": "Pillow 3" },
+            { "id": 6007, "name": "Pillow 4" }
+        ]
+    },
+    {
+        "data": [
+            { "id": 7001, "name": "Ball" },
+            { "id": 7002, "name": "Clock" },
+            { "id": 7003, "name": "Clock" },
+            { "id": 7004, "name": "Cloud 1" },
+            { "id": 7005, "name": "Cloud 2" },
+            { "id": 7006, "name": "Cloud 3" },
+            { "id": 7007, "name": "Star" },
+            { "id": 7008, "name": "Guitar" },
+            { "id": 7009, "name": "Laptop" },
+            { "id": 7010, "name": "Picture 1" },
+            { "id": 7011, "name": "Picture 2" },
+            { "id": 7012, "name": "Picture 3" },
+            { "id": 7013, "name": "Picture 4" },
+            { "id": 7014, "name": "Picture 5" },
+            { "id": 7015, "name": "Picture 6" },
+            { "id": 7016, "name": "Plant 1" },
+            { "id": 7017, "name": "Plant 2" },
+            { "id": 7018, "name": "Plant 3" },
+            { "id": 7019, "name": "Signboard" },
+            { "id": 7020, "name": "Toy 1" },
+            { "id": 7021, "name": "Toy 2" },
+            { "id": 7022, "name": "Toy 3" },
+            { "id": 7023, "name": "Toy 4" }
+        ]
+    }
+]
